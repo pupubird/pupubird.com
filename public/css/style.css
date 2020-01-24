@@ -70,7 +70,7 @@ footer {
   display: none;
 }
 .main {
-  height: 80vh;
+  height: 90vh;
   width: 100%;
   display: flex;
   align-items: center;
@@ -79,6 +79,8 @@ footer {
   position: relative;
 }
 .main__image {
+  height: 80%;
+  padding-bottom: 5%;
   user-select: none;
   -moz-user-select: none;
   -webkit-user-drag: none;
@@ -131,7 +133,6 @@ footer {
 @media screen and (max-width: 700px) {
   .main__image {
     width: 80vw;
-    padding: 5vh;
   }
   .nav-links {
     display: none;
@@ -148,7 +149,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 0px 20px;
+    padding: 0px 20px;
   }
   .burger-line {
     height: 4px;
