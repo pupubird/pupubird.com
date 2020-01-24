@@ -50,8 +50,6 @@ footer {
 
 .logo {
   margin: 15px 30px;
-  animation: hue-rotate 5s ease-in 0;
-  animation-iteration-count: infinite;
 }
 .burger {
   display: none;
@@ -70,7 +68,9 @@ footer {
   -webkit-user-drag: none;
   -webkit-user-select: none;
   -ms-user-select: none;
-  animation: hue-rotate 5s ease-in 0;
+}
+.hue-filter {
+  animation: hue-rotate 20s ease-in 0;
   animation-iteration-count: infinite;
 }
 
