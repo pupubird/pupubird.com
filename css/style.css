@@ -83,13 +83,6 @@ footer {
   position: absolute;
   z-index: -1;
 }
-.main__title {
-  font-size: 90px;
-  font-weight: 200;
-  position: absolute;
-  justify-self: center;
-  top: 29%;
-}
 .hue-filter {
   animation: hue-rotate 20s ease-in 0;
   animation-iteration-count: infinite;
@@ -122,13 +115,6 @@ footer {
   .main__image {
     width: 80vw;
     padding: 5vh;
-  }
-  .main__title {
-    font-size: 60px;
-    top: 35%;
-  }
-  .main__paragraph {
-    font-size: 13px;
   }
   .nav-links {
     display: none;
