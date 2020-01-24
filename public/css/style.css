@@ -83,6 +83,7 @@ footer {
   position: absolute;
   z-index: -1;
 }
+
 .hue-filter {
   animation: hue-rotate 20s ease-in 0;
   animation-iteration-count: infinite;
