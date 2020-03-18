@@ -33,6 +33,8 @@ To start, install all the dependencies
 npm i
 ```
 
+_Please copy "assets" folder and paste it in `public/build/` after installing_
+
 ## Usage <a name = "usage"></a>
 
 Run
