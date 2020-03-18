@@ -43,4 +43,11 @@ Run
 npm run dev
 ```
 
-To see a live server loading up and you are good to go!
+To see a live server loading up !
+
+To generate production website,
+
+```bash
+npm run build
+```
+
